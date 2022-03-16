@@ -1,7 +1,7 @@
 👋 Hi there, I Am Aniket Rana 👋
 
 ➡️ 🔭 I’m currently working on .Net Technologies  
-➡️ 🌱 I’m currently learning MERN  
+➡️ 🌱 I’m currently polishing MERN & MEAN
 
 
 ✅ Reach out to me click below 😊   
